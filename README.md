@@ -18,5 +18,6 @@
 
 ### **[Controls](https://github.com/xander-haj/LADXHD-Documentation/tree/main/root/InGame/Controls)**
 ***
-To mod sprites, just edit the sheets found in `Data/Map Objects` then rebuild the project
+To mod sprites, just edit the sheets found in `Data/Map Objects` or `Data/Maps/Tilesets` then rebuild the project     
+ -note, if you are editing a tile in `Tilesets` that is also in `Map Objects`, the sprite in Map Objects may need editing also 
  
