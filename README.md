@@ -5,3 +5,6 @@
 
 ### **HUD**
  > [Hud Rectangles](https://github.com/xander-haj/LADXHD-Documentation/blob/main/root/InGame/Things/values.cs.md)
+
+### **GameOver Screen**
+ > [White Background](https://github.com/xander-haj/LADXHD-Documentation/edit/main/root/InGame/GameSystems/GameOverSystem.cs.md)
