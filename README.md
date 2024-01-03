@@ -5,6 +5,8 @@
 
 ### **HUD**
  > [Hud Rectangles](https://github.com/xander-haj/LADXHD-Documentation/blob/main/root/InGame/Things/values.cs.md)
+ 
+ > [Menu Button Colors](https://github.com/xander-haj/LADXHD-Documentation/blob/main/root/InGame/Things/values.cs.md#line-14-16)
 
 ### **GameOver Screen**
  > [White Background](https://github.com/xander-haj/LADXHD-Documentation/edit/main/root/InGame/GameSystems/GameOverSystem.cs.md)
